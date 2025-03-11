@@ -54,7 +54,6 @@ kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
-mod-wsgi==4.9.4
 mutagen==1.47.0
 mysql-connector==2.2.9
 narwhals==1.29.1
